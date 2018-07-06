@@ -1,6 +1,9 @@
 UX Project Checklist
 ===========
 
+The live site: [ UX Project Checklist ](https://uxchecklist.github.io/).
+
+
 Start your next UX project with this checklist and don't forget anything!
 
 
